@@ -11,19 +11,22 @@ Instructions
 Edit Connection
 
 Name: Cameo-Server
-Location: ROOT
-Protocol: RDP (unless different)
 
+Location: ROOT
+
+Protocol: RDP (unless different)
 
 Parameters - Network
 
 Hostname: IP Address of Cameo Server
+
 Port: 3389 (unless different)
 
 
 Parameters - Authentication
 
 Username: Administrator
+
 Password: 
 
 
@@ -36,18 +39,21 @@ Password:
 Edit User
 
 Username: cameo-user (or something)
+
 Password: 
 
 
 Profile
 
 Full name: cameo (or something)
+
 Email: cameo@local.Network
 
 Organization: ndmee
 
 
 Current Connections
+
 Select the Cameo connection created in Step 4 and 5.
 
 
