@@ -1,4 +1,4 @@
-# Apache-Guac
+# Apache-Guacamole
 Guacamole Deployment on AWS EC2
 This readme describes how to deploy Guacamole via docker. It assumes an airgapped RHEL8 Linux environment.
 For all binaries and docker images, please refer to the binary-locatons.md file.
